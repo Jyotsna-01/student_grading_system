@@ -1,0 +1,20 @@
+Student: John Doe (ID: 101)
+GPA: 3.00
+Grades: {Mathematics=B}
+
+Student: Jane Smith (ID: 102)
+GPA: 4.00
+Grades: {Physics=A}
+
+Student: Michael Brown (ID: 103)
+GPA: 2.00
+Grades: {Chemistry=C}
+
+Student: Emily Davis (ID: 104)
+GPA: 4.00
+Grades: {Biology=A}
+
+Student: David Wilson (ID: 105)
+GPA: 0.00
+Grades: {English=F}
+
